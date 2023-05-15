@@ -13,7 +13,7 @@ Mozc is not an officially supported Google product.
 Build Status
 ------------
 
-| Linux | Windows | macOS | Android lib |
+| Linux | Windows | macOS | Android lib | 
 |:-----:|:-------:|:-----:|:-----------:|
 | [![Linux](https://github.com/google/mozc/actions/workflows/linux.yaml/badge.svg)](https://github.com/google/mozc/actions/workflows/linux.yaml) | [![Windows](https://github.com/google/mozc/actions/workflows/windows.yaml/badge.svg)](https://github.com/google/mozc/actions/workflows/windows.yaml) | [![macOS](https://github.com/google/mozc/actions/workflows/macos.yaml/badge.svg)](https://github.com/google/mozc/actions/workflows/macos.yaml) | [![Android lib](https://github.com/google/mozc/actions/workflows/android.yaml/badge.svg)](https://github.com/google/mozc/actions/workflows/android.yaml) |
 
